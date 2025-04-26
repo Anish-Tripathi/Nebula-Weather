@@ -1,6 +1,6 @@
-# 🌌 SkyCast
+# 🌌 Nebula Weather
 
-**SkyCast** is a visually stunning and feature-rich weather forecasting application designed to deliver accurate, real-time weather data with an immersive user experience. From current conditions to detailed forecasts and intuitive maps — it’s weather like you’ve never seen before.
+**Nebula Weather** is a visually stunning and feature-rich weather forecasting application designed to deliver accurate, real-time weather data with an immersive user experience. From current conditions to detailed forecasts and intuitive maps — it’s weather like you’ve never seen before.
 
 [🔗 View Live Demo](https://nebula-weather.vercel.app/)
 
@@ -60,7 +60,7 @@
 git clone [https://github.com/Anish-Tripathi/SkyCast.git
 cd Nebula-Weather
 
-To make SkyCast work with your own data:
+To make Nebula Weather work with your own data:
 
 1. **Create a `.env` file** in the root of your project (same level as `package.json`).
 
