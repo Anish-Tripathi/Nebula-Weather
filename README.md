@@ -49,7 +49,7 @@
 
 ## 🧭 Try it Live
 
-👉 [Click here to explore Nebula Weather](https://nebula-weather.vercel.app/)
+👉 [Click here to explore SkyCast](https://nebula-weather.vercel.app/)
 
 
 ---
@@ -57,7 +57,7 @@
 ## 🛠️ Setup Instructions
 
 ```bash
-git clone https://github.com/Anish-Tripathi/Nebula-Weather.git
+git clone [https://github.com/Anish-Tripathi/Nebula-Weather.git
 cd Nebula-Weather
 
 To make Nebula Weather work with your own data:
