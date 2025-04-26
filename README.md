@@ -57,7 +57,7 @@
 ## 🛠️ Setup Instructions
 
 ```bash
-git clone https://github.com/Anish-Tripathi/Nebula-Weather.git
+git clone [https://github.com/Anish-Tripathi/SkyCast.git
 cd Nebula-Weather
 
 To make Nebula Weather work with your own data:
