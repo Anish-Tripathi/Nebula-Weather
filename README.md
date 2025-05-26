@@ -2,8 +2,6 @@
 
 **SkyCast Weather** is a visually stunning and feature-rich weather forecasting application designed to deliver accurate, real-time weather data with an immersive user experience. From current conditions to detailed forecasts and intuitive maps — it’s weather like you’ve never seen before.
 
-[🔗 View Live Demo](https://nebula-weather.vercel.app/)
-
 ---
 
 ## 🌟 Core Features
@@ -83,7 +81,7 @@
 
 ## 🧭 Try it Live
 
-👉 [Click here to explore SkyCast](https://SkyCast-weather.vercel.app/)
+👉 [Click here to explore SkyCast](https://nebula-weather.vercel.app/)
 
 ---
 
