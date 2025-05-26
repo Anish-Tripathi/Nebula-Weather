@@ -1,4 +1,4 @@
-# SkyCast - Smart Weather Forecasting
+# 🌌 SkyCast - Smart Weather Forecasting
 
 **SkyCast Weather** is a visually stunning and feature-rich weather forecasting application designed to deliver accurate, real-time weather data with an immersive user experience. From current conditions to detailed forecasts and intuitive maps — it’s weather like you’ve never seen before.
 
@@ -44,7 +44,7 @@
 ## 🖥️ Main Dashboard
 
 <p align="center">
-  <img src="/main.png" alt="Main Dashboard" width="80%" height="250px" style="margin-bottom: 20px;" />
+  <img src="./screenshots/main.png" alt="Main Dashboard" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
 
 <p align="center"><em>Current temperature, location search, geolocation, and unit toggle (°C/°F)</em></p>
@@ -54,7 +54,7 @@
 ## 📅 5-Day & Hourly Forecast
 
 <p align="center">
-  <img src="/hourly-forecast.png" alt="Hourly and 5-Day Forecast" width="80%" height="250px" style="margin-bottom: 20px;" />
+  <img src="./screenshots/hourly-forecast.png" alt="Hourly and 5-Day Forecast" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
 
 <p align="center"><em>Detailed forecast view with smooth scroll, visual indicators, and hourly breakdown</em></p>
@@ -64,7 +64,7 @@
 ## 🌍 Air Quality, Weather Details & Radar Map
 
 <p align="center">
-  <img src="/map-view.png" alt="Weather Details and Map View" width="80%" height="250px" style="margin-bottom: 20px;" />
+  <img src="./screenshots/map-view.png" alt="Weather Details and Map View" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
 
 <p align="center"><em>Air quality index, UV levels, condition insights, and interactive radar view</em></p>
@@ -74,7 +74,7 @@
 ## ⭐ Save Locations for Quick Access
 
 <p align="center">
-  <img src="/save-location.png" alt="Save Locations" width="80%" height="250px" style="margin-bottom: 20px;" />
+  <img src="./screenshots/save-location.png" alt="Save Locations" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
 
 <p align="center"><em>Bookmark and manage favorite cities for faster weather lookup</em></p>
