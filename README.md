@@ -1,6 +1,6 @@
-# 🌌 Nebula Weather
+# 🌌 SkyCast Weather
 
-**Nebula Weather** is a visually stunning and feature-rich weather forecasting application designed to deliver accurate, real-time weather data with an immersive user experience. From current conditions to detailed forecasts and intuitive maps — it’s weather like you’ve never seen before.
+**SkyCast Weather** is a visually stunning and feature-rich weather forecasting application designed to deliver accurate, real-time weather data with an immersive user experience. From current conditions to detailed forecasts and intuitive maps — it’s weather like you’ve never seen before.
 
 [🔗 View Live Demo](https://nebula-weather.vercel.app/)
 
@@ -39,28 +39,44 @@
 
 ---
 
-## 📸 Sneak Peek
+## 🌤️ App Preview
 
 <p align="center">
-  <img src="https://your-screenshot-link.com/mockup.png" alt="Nebula Weather Screenshot" width="80%" />
+  <img src="/mockup-main.png" alt="Main App Screenshot" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
+
+<p align="center">
+  <img src="/dashboard.png" alt="Dashboard View" width="350" height="250px" style="margin: 10px;" />
+  <img src="/hourly-forecast.png" alt="Hourly Forecast" width="350" height="250px" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="/map-view.png" alt="Weather Radar Map" width="350" height="250px"  style="margin: 10px;" />
+  <img src="/favorites.png" alt="Favorites View" width="350" height="250px" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="/alerts.png" alt="Weather Alerts" width="350" height="250px" style="margin: 10px;" />
+  <img src="/settings.png" alt="Settings Page" width="350"  height="250px" style="margin: 10px;" />
+</p>
+
+<p align="center"><em>Responsive views across different features and settings</em></p>
 
 ---
 
 ## 🧭 Try it Live
 
-👉 [Click here to explore SkyCast](https://nebula-weather.vercel.app/)
-
+👉 [Click here to explore SkyCast](https://SkyCast-weather.vercel.app/)
 
 ---
 
 ## 🛠️ Setup Instructions
 
-```bash
-git clone [https://github.com/Anish-Tripathi/Nebula-Weather.git
-cd Nebula-Weather
+````bash
+git clone [https://github.com/Anish-Tripathi/SkyCast-Weather.git
+cd SkyCast-Weather
 
-To make Nebula Weather work with your own data:
+To make SkyCast Weather work with your own data:
 
 1. **Create a `.env` file** in the root of your project (same level as `package.json`).
 
@@ -73,3 +89,4 @@ VITE_MAPBOX_TOKEN=your_mapbox_access_token_here
 
 npm install
 npm run dev
+````
