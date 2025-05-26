@@ -41,26 +41,43 @@
 
 ## 🌤️ App Preview
 
-<p align="center">
-  <img src="/mockup-main.png" alt="Main App Screenshot" width="80%" height="250px" style="margin-bottom: 20px;" />
-</p>
+## 🖥️ Main Dashboard
 
 <p align="center">
-  <img src="/dashboard.png" alt="Dashboard View" width="350" height="250px" style="margin: 10px;" />
-  <img src="/hourly-forecast.png" alt="Hourly Forecast" width="350" height="250px" style="margin: 10px;" />
+  <img src="/main.png" alt="Main Dashboard" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
+
+<p align="center"><em>Current temperature, location search, geolocation, and unit toggle (°C/°F)</em></p>
+
+---
+
+## 📅 5-Day & Hourly Forecast
 
 <p align="center">
-  <img src="/map-view.png" alt="Weather Radar Map" width="350" height="250px"  style="margin: 10px;" />
-  <img src="/favorites.png" alt="Favorites View" width="350" height="250px" style="margin: 10px;" />
+  <img src="/hourly-forecast.png" alt="Hourly and 5-Day Forecast" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
+
+<p align="center"><em>Detailed forecast view with smooth scroll, visual indicators, and hourly breakdown</em></p>
+
+---
+
+## 🌍 Air Quality, Weather Details & Radar Map
 
 <p align="center">
-  <img src="/alerts.png" alt="Weather Alerts" width="350" height="250px" style="margin: 10px;" />
-  <img src="/settings.png" alt="Settings Page" width="350"  height="250px" style="margin: 10px;" />
+  <img src="/map-view.png" alt="Weather Details and Map View" width="80%" height="250px" style="margin-bottom: 20px;" />
 </p>
 
-<p align="center"><em>Responsive views across different features and settings</em></p>
+<p align="center"><em>Air quality index, UV levels, condition insights, and interactive radar view</em></p>
+
+---
+
+## ⭐ Save Locations for Quick Access
+
+<p align="center">
+  <img src="/save-location.png" alt="Save Locations" width="80%" height="250px" style="margin-bottom: 20px;" />
+</p>
+
+<p align="center"><em>Bookmark and manage favorite cities for faster weather lookup</em></p>
 
 ---
 
