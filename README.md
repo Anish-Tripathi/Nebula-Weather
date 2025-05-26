@@ -89,7 +89,7 @@
 
 ````bash
 git clone [https://github.com/Anish-Tripathi/SkyCast-Weather.git
-cd SkyCast-Weather
+cd SkyCast
 
 To make SkyCast Weather work with your own data:
 
